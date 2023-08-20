@@ -28,4 +28,5 @@ Customer Feature CRUD includes:
 - GET = Get Customer Detail
 - PUT = Update Customer Detail
 - DELETE = Delete Customer
+
 Each of the features also includes positive and negative cases.
