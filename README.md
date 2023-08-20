@@ -1,6 +1,13 @@
 ## API Automation Repository for kasirAja Website (POS Website)
 Welcome to API Automation Reposity for kasirAja website.  This is an automated test case examples for Customer feature (CRUD) in kasirAja website. 
 
+## Table of Contents
+
+- [Framework and How to Install](#framework)
+- [How to Run](#howToRun)
+- [Evidence](#evidence)
+- [API / Features](#features)
+
 ## Framework and How to Install
 - npm [npm install]
 - supertest [npm install supertest]
@@ -12,7 +19,8 @@ Welcome to API Automation Reposity for kasirAja website.  This is an automated t
 - npm npm run html-report:api (to open html report)
 
 ## Evidence
-https://drive.google.com/file/d/1FPqIZfFozlabrJOFOf80atoTu32EihUO/view?usp=sharing
+https://github.com/kettei/api-automation-sanbercode-47/assets/42662172/8ea21ec4-6b0d-4637-abe3-5a03fc116a4a
+
 
 ## API / Features
 Customer Feature CRUD includes:
