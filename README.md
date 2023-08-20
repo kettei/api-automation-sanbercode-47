@@ -3,10 +3,10 @@ Welcome to API Automation Reposity for kasirAja website.  This is an automated t
 
 ## Table of Contents
 
-- [Framework and How to Install](#frameworkandhowtoinstall)
-- [How to Run](#howtorun)
+- [Framework](#framework)
+- [Run](#run)
 - [Evidence](#evidence)
-- [API / Features](#api/features)
+- [Features](#features)
 
 ## Framework and How to Install
 - npm [npm install]
